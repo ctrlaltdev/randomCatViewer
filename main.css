@@ -1,0 +1,16 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #32333b; }
+
+main {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }

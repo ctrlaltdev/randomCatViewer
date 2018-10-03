@@ -1,0 +1,20 @@
+{
+  "name": "randomcatviewer",
+  "version": "1.0.0",
+  "description": "Random Cat Viewer",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx serve ./",
+    "build": "npx pug-cli index.pug && npx node-sass main.sass -o ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrlaltdev/randomCatViewer.git"
+  },
+  "author": "Yorick <yorick@ctrlaltdev.xyz>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ctrlaltdev/randomCatViewer/issues"
+  },
+  "homepage": "https://github.com/ctrlaltdev/randomCatViewer#readme"
+}
